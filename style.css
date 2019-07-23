@@ -1,0 +1,10 @@
+#map {
+	width: 800px;
+	height: 600px;
+	background-color: black;
+	position: relative;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
